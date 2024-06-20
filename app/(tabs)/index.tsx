@@ -1,7 +1,9 @@
-import { Text } from 'react-native';
+import CardScreen from "../../screens/CardScreen"
+
+
 
 export default function Calendar() {
   return (
-      <Text>Start Challenge here</Text>
+      <CardScreen/>
   );
 }

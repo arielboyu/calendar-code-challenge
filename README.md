@@ -1,29 +1,14 @@
-# Digs Calendar Code Challenge
+The model requested in the figma was copied following the instructions as to how the cards should be displayed depending on the status, the date-fns library was installed to translate the name of the days according to the date obtained, we also contemplated and simulated the If you do not have actions to display the gray banner.
 
-This is the candaidate test for Digs UI developers. It is NOT pass/fail. It is intended to provide insight into the range of your skill set. Please do what you can.
+Below we attach some screenshots of the final result.
 
-## Get started
 
-1. Clone this repository to your own GitHub account
-2. Install Dependencies
-   ```bash
-   npm install
-   or
-   yarn
-   ```
-3. Start the app
-   ```bash
-   npm expo start
-   ```
+<p align='center'>
+    <img  width="220px" src='https://i.ibb.co/YLR5pXR/Whats-App-Image-2024-06-20-at-10-56-22.jpg' </img>
+        <img  width="220px" height="464px" src='https://i.ibb.co/LP9DpFM/Whats-App-Image-2024-06-20-at-11-02-06.jpg' </img>
+</p>
 
-## Instructions for the test
 
-Your task is to reproduce the design and styles from the Figma mockup provided. Pay close attention to detail to ensure your implementation matches the mockup as closely as possible.
 
-1. Use the Figma link provided to you from the Interview Process email you received
-2. Use the data provided at this endpoint to populate your design:
-   https://xjvq5wtiye.execute-api.us-east-1.amazonaws.com/interview/api/v1/challenge
 
-## Submission
-
-Once you have completed the challenge, please push your code to a public repository on your GitHub account and share the link with us **by way of replying all to the Interview Process email you received**.
+# DIGS CALENDAR CHALLENGE
